@@ -1,0 +1,10 @@
+﻿@page
+@model FromFileModel
+@{
+    ViewData["Title"] = "From file";
+}
+
+@foreach (var product in Model.Products)
+{
+    <p>@product.Title</p>
+}

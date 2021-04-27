@@ -36,3 +36,5 @@ C:\Users\NexGenHuman\Source\Repos\Services\Services\obj\Debug\netcoreapp3.1\Serv
 C:\Users\NexGenHuman\Source\Repos\Services\Services\obj\Debug\netcoreapp3.1\Services.pdb
 C:\Users\NexGenHuman\Source\Repos\Services\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache
 C:\Users\NexGenHuman\Source\Repos\Services\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\NexGenHuman\source\repos\Services\Services\obj\Debug\netcoreapp3.1\Razor\Pages\FromDatabase.cshtml.g.cs
+C:\Users\NexGenHuman\source\repos\Services\Services\obj\Debug\netcoreapp3.1\Razor\Pages\FromFile.cshtml.g.cs

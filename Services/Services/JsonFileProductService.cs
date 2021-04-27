@@ -18,7 +18,7 @@ namespace Services.Services
 
         private string JsonFileName
         {
-            get { return Path.Combine(WebHostEnvironment.WebRootPath, "data", "products.json"); }
+            get { return Path.Combine(WebHostEnvironment.ContentRootPath, "data", "products.json"); }
         }
 
         public IEnumerable<Product> GetProducts()
