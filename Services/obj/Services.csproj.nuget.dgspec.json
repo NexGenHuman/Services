@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NexGenHuman\\Source\\Repos\\Services\\Services\\Services.csproj": {}
+    "C:\\Users\\NexGenHuman\\source\\repos\\Services\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NexGenHuman\\Source\\Repos\\Services\\Services\\Services.csproj": {
+    "C:\\Users\\NexGenHuman\\source\\repos\\Services\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NexGenHuman\\Source\\Repos\\Services\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\NexGenHuman\\source\\repos\\Services\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\NexGenHuman\\Source\\Repos\\Services\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\NexGenHuman\\source\\repos\\Services\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\NexGenHuman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NexGenHuman\\Source\\Repos\\Services\\Services\\obj\\",
+        "outputPath": "C:\\Users\\NexGenHuman\\source\\repos\\Services\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
