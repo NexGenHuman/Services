@@ -26,6 +26,7 @@ namespace Services
         {
             services.AddRazorPages();
             services.AddTransient<JsonFileProductService>();
+            services.AddTransient<DatabaseProductService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

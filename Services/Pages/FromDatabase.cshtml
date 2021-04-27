@@ -2,3 +2,15 @@
 @model FromDatabaseModel
 @{
 }
+
+<div class="card-columns">
+    @foreach (var product in Model.Products)
+    {
+        <div class="card">
+            <div class="card-img" style="background-image: url('@product.Image');"></div>
+            <div class="card-body">
+                <div class="card-title">@product.Title</div>
+            </div>
+        </div>
+    }
+    </div>

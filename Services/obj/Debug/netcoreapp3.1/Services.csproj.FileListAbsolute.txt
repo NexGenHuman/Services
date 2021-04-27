@@ -38,3 +38,9 @@ C:\Users\NexGenHuman\Source\Repos\Services\Services\obj\Debug\netcoreapp3.1\Serv
 C:\Users\NexGenHuman\Source\Repos\Services\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
 C:\Users\NexGenHuman\source\repos\Services\Services\obj\Debug\netcoreapp3.1\Razor\Pages\FromDatabase.cshtml.g.cs
 C:\Users\NexGenHuman\source\repos\Services\Services\obj\Debug\netcoreapp3.1\Razor\Pages\FromFile.cshtml.g.cs
+C:\Users\NexGenHuman\source\repos\Services\Services\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\NexGenHuman\source\repos\Services\Services\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\NexGenHuman\source\repos\Services\Services\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\NexGenHuman\source\repos\Services\Services\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\NexGenHuman\source\repos\Services\Services\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NexGenHuman\source\repos\Services\Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
